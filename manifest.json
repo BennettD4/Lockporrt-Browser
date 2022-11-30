@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser",
+  "name": "Lockport Browser",
   "version": "1.2",
   "author": "Richard Lobo <codingcat@protonmail.com>",
 
-  "description": "The continuation of the project Leaf Browser Alpha.",
+  "description": "The Official Browser of Lockport High School",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
